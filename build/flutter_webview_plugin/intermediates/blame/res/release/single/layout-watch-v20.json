@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jtv/flutter_projects/sharesies_webview/build/flutter_webview_plugin/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/jtv/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/eef48f8b19f8bbbc5619b7be98e65ffc/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jtv/flutter_projects/sharesies_webview/build/flutter_webview_plugin/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jtv/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/eef48f8b19f8bbbc5619b7be98e65ffc/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
