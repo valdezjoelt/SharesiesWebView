@@ -1,6 +1,6 @@
 # sharesies_webview
 
-Sharesies Web wrapper
+Sharesies Web wrapper written in Flutter
 
 ## Getting Started
 
